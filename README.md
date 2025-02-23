@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# Project Management Application
 
 ## Introduction
 
