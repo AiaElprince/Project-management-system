@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Management Application
 
 ## Introduction
@@ -97,3 +98,7 @@ Admins can manage users in the system:
 3. Clone the repository.
    ```bash
    npm start
+=======
+# Project-management-system
+A React-based project management system to track tasks, teams, and deadlines efficiently
+>>>>>>> b7750fe2afdf1904f6a59032214252260daa130c
